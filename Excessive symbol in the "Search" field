@@ -1,0 +1,16 @@
+Reporter: Denys Vasyliev
+Operating system: Windows 10
+Browser: Google Chrome
+Preconditions:
+Go to the https://docs.blynk.io/en/ website
+Steps to reproduce:
+1. Find "Search" field in the header of the site
+Expected result:
+The must be no excessive symbols in the field
+Actual result:
+Excessive symbol in the "Search" field
+Severity:
+Minor
+Priority:
+Low
+Attachments: https://app.screencast.com/Hry3P4xCSlutq
