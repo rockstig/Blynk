@@ -1,0 +1,18 @@
+Reporter:	Denys Vasyliev
+Operating system:	Windows 10
+Browser:	Google Chrome
+Preconditions:	
+1. Open https://fra1.blynk.cloud/dashboard/user-profile website
+Steps to reproduce:	
+1. Change localization to the "UK" 
+2. Click on the "Налаштування" button in left down corner of the page
+3. Click on the button "Вебхукі"
+Expected result:	
+After clicking on the "Вебхукі" there must be link to the full documentation
+Actual result:	
+Set of symols instead of link
+Severity:	
+Major
+Priority:	
+High
+Attachments	https://app.screencast.com/zsPLSdKtTCkYK
