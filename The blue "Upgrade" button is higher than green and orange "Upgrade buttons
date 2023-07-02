@@ -1,0 +1,15 @@
+Reporter:	Denys Vasyliev
+Summary:	The blue "Upgrade" button is higher than green and orange "Upgrade buttons
+Operating system:	Windows 10
+Browser:	Google Chrome
+Preconditions:	
+Go to the site: https://fra1.blynk.cloud/dashboard/89549/settings/billing
+Steps to reproduce:	
+1. Find the blue "Upgrade" button
+Expected result:	Blue "Upgrade" button must be in the line with two onther buttons
+Actual result:	The blue "Upgrade" button is higher than green and orange "Upgrade buttons
+Severity:	
+Minor
+Priority:	
+Low
+Attachments:	https://app.screencast.com/XZPUuJzITxCwS
