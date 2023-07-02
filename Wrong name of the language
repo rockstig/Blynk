@@ -1,0 +1,16 @@
+Reporter	Denys Vasyliev
+Operating system:	Windows 10
+Browser:	Google Chrome
+Preconditions:	
+1. Open https://fra1.blynk.cloud/dashboard/user-profile website
+Steps to reproduce:
+1. Find the "UK" button to change the language
+Expected result:	
+There must be "UA" unstead of "UK"
+Actual result:	
+There is "UK" instead of "UA"
+Severity:	
+Major
+Priority:	
+High
+Attachments	https://app.screencast.com/gYvYx3TERIagA
